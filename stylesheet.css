@@ -6,6 +6,12 @@ h1{
 	text-align: center;
 }
 
+#name{
+	color:tan;
+	font-weight: bolder;
+	font-family: 'Franklin Gothic Medium';
+}
+
 .bio{	
 	text-align: left;
 }
