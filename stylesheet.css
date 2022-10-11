@@ -1,13 +1,13 @@
 h1{
-	height: 400px;
-	width: 800px;
-	background: red;
+	height: 300px;
+	width: 1000px;
+	background: tan;
 	line-height: 400px;
 	text-align: center;
 }
 
 #name{
-	color:tan;
+	color:olive;
 	font-weight: bolder;
 	font-family: 'Franklin Gothic Medium';
 }
