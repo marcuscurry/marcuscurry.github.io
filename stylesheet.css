@@ -30,7 +30,14 @@ mark.orange {
     	background: none;
 }
 
-mark.blue {
-    	color:#0000A0;
-    	background: none;
+a:link{
+	color: lightskyblue;
+}
+
+a:visited{
+	color: palevioletred;
+}
+
+a:hover{
+	color: grey;
 }
