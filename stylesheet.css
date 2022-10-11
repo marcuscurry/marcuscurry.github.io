@@ -10,6 +10,10 @@ h1{
 	text-align: left;
 }
 
+.future{
+	text-align: right;
+}
+
 .catcheye{
 	color: blue;
 	font-size: 18px;
@@ -17,13 +21,12 @@ h1{
 }
 
 .stmts{
-	
 	font-size:14px;
 	color: black;
 }
 
 mark.orange {
-    	color: orange;
+    	color:orange;
     	background: none;
 }
 
