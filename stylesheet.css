@@ -5,3 +5,19 @@ h1{
 	line-height: 400px;
 	text-align: center;
 }
+p {
+    font-size:14px;
+    color:#538b01;
+    font-weight:bold;
+    font-style:italic;
+}
+
+mark.orange {
+    color: orange;
+    background: none;
+}
+
+mark.blue {
+    color:#0000A0;
+    background: none;
+}
