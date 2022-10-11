@@ -10,17 +10,24 @@ h1{
 	text-align: left;
 }
 
+.catcheye{
+	color: blue;
+	font-size: 18px;
+	font-weight: bold;
+}
+
 .stmts{
-    font-size:14px;
-    color: black;
+	
+	font-size:14px;
+	color: black;
 }
 
 mark.orange {
-    color: orange;
-    background: none;
+    	color: orange;
+    	background: none;
 }
 
 mark.blue {
-    color:#0000A0;
-    background: none;
+    	color:#0000A0;
+    	background: none;
 }
